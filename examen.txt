@@ -5,3 +5,5 @@ descargar y cargar a una base de datos los datos
 del padron reducido de sunat
 3.-la descarga y carga de datos tiene que ser establecido
 en tiempos de manera automatica.
+4.-El dashboard enviar cambios con el branch dev1 y la insertada de datos con el branch dev2
+5.-Clona el repositorio con el branch main
