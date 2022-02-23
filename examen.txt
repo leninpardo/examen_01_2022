@@ -1,0 +1,7 @@
+1.-Desde el codigo generar un dasborad para mostrar datos de
+ruc, el padrón reducido de sunat(http://www2.sunat.gob.pe/padron_reducido_ruc.zip)
+2.-Generar de tal manera que de manera automatica
+descargar y cargar a una base de datos los datos
+del padron reducido de sunat
+3.-la descarga y carga de datos tiene que ser establecido
+en tiempos de manera automatica.
